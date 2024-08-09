@@ -1,5 +1,4 @@
 # Brand_Perception_Analysis
-# Brand Perception Analysis
 
 ## Project Overview
 Brand Perception Analysis is a project aimed at understanding public sentiment towards a brand by analyzing comments on its YouTube videos. The primary goal is to extract and classify user sentiments—positive, negative, or neutral. By leveraging Natural Language Processing (NLP) and machine learning techniques, this project provides valuable insights into consumer perceptions, helping brands identify strengths and areas for improvement.
